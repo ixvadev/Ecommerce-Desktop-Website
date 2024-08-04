@@ -20,4 +20,4 @@
 
 // export default Shop
 
-//keyinchalik yozvoruvramiz
+//adashi ketdim
